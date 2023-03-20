@@ -1,5 +1,5 @@
 # Hejtop newsletter
-Repo for all the newsletters I send from .
+Repo for all the newsletters I send from [hejtop.com/newsletter](https://www.hejtop.com/newsletter).
 
 ## Newsletter issues
 You can get sent new newsletter issues to your email by subscribing [here](http://hejtop.com/newsletter). If you'd rather read them online (or share a direct link) check out the list below:
