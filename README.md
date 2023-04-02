@@ -1,7 +1,7 @@
 # Hejtop newsletter
 Repo for all the newsletters I send from [hejtop.com/newsletter](https://www.hejtop.com/newsletter).
 
-## Newsletter issues
+## Newsletter archive
 You can get sent new newsletter issues to your email by subscribing [here](http://hejtop.com/newsletter). If you'd rather read them online (or share a direct link) check them out below:
 
 * [Hejtop Issue #3 - Building trust, multiplying and management changes](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/3-march-28-23.html)
