@@ -4,6 +4,7 @@ Repo for all the newsletters I send from [hejtop.com/newsletter](https://www.hej
 ## Newsletter archive
 You can get sent new newsletter issues to your email by subscribing [here](http://hejtop.com/newsletter). If you'd rather read them online (or share a direct link) check them out below:
 
+* [Hejtop Issue #14 - Bad people development = burning money](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/14-june-13-23.html)
 * [Hejtop Issue #13 - Whole human career development](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/13-june-06-23.html)
 * [Hejtop Issue #12 - With great power comes great sponsorship](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/12-may-30-23.html)
 * [Hejtop Issue #11 - People > scaling](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/11-may-23-23.html)
