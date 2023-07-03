@@ -4,6 +4,7 @@ Repo for all the newsletters I send from [hejtop.com/newsletter](https://www.hej
 ## Newsletter archive
 You can get sent new newsletter issues to your email by subscribing [here](http://hejtop.com/newsletter). If you'd rather read them online (or share a direct link) check them out below:
 
+* [Hejtop Issue #17 - People don't have to grow](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/17-july-04-23.html)
 * [Hejtop Issue #16 - Balancing clarity vs flexibility](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/16-june-27-23.html)
 * [Hejtop Issue #15 - Making changes without chaos](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/15-june-22-23.html)
 * [Hejtop Issue #14 - Bad people development = burning money](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/14-june-13-23.html)
