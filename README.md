@@ -4,6 +4,7 @@ Repo for all the newsletters I send from [hejtop.com/newsletter](https://www.hej
 ## Newsletter archive
 You can get sent new newsletter issues to your email by subscribing [here](http://hejtop.com/newsletter). If you'd rather read them online (or share a direct link) check them out below:
 
+* [HejTop Issue #20 - The management promotion problem](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/20-aug-01-23.html)
 * [HejTop Issue #19 - Managers not friends](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/19-july-18-23.html)
 * [HejTop Issue #18 - Overcoming startup career development](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/18-july-11-23.html)
 * [HejTop Issue #17 - People don't have to grow](https://htmlpreview.github.io/?https://github.com/adamblanchard/hejtop-newsletter/blob/main/issues/17-july-04-23.html)
